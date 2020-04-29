@@ -1,0 +1,8 @@
+@ECHO SACAR CAPTURA DE PANTALLA
+if not exist SCREENSHOT mkdir SCREENSHOT
+cd SCREENSHOT
+flutter screenshot
+PAUSE
+
+
+

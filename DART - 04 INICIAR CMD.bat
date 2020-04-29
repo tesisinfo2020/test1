@@ -1,0 +1,3 @@
+@ECHO ABRIR CMD
+CMD
+exit
